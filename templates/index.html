@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<h3>A simple web page</h3>
+
+<div>
+
+    <p>
+        <!---Calling data from views -> get_context_data methods-->
+        Name: {{ name|upper }}
+    </p>
+    <p>
+        Country: {{ country|upper }}
+    </p>
+    <p>
+        <!-- useing for loop for print dynamically h tag -->
+        {% for num in list %}
+
+        {% if num <= 3 %}
+        <h{{ num }}>Life is simple, do enjoy.</h{{ num }}}>
+        {% else %}
+        <h{{ num }}>Life is cool, be positive.</h{{ num }}}>
+        {% endif %}
+
+        {% endfor %}
+    </p>
+
+</div>
+
+{% endblock %}

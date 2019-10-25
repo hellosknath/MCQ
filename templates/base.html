@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Django</title>
+    </head>
+    <body>
+
+            <nav>
+                    <a href="/">Home</a> |
+                    <a href="{% url 'about' %}">About</a> | 
+                    <a href="{% url 'portfolio' %}">Portfolio</a>
+            </nav>
+
+            {% block body %}
+            
+            {% endblock %}
+       
+
+    </body>
+</html>
