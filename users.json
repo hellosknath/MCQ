@@ -5,7 +5,7 @@
       "id": 1,
       "name": "srinath",
       "owner": {
-        "avatar_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Me%21.png"
+        "avatar_url": "https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/174869161_4021279001324329_2200461303556084238_n.jpg?_nc_cat=102&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFLBht1dLzaXfbuOpinYI9PRrVZ6ryGIwtGtVnqvIYjC8L6olHvt4Pdim5aYVpKUSRnWWY4acME55YXgZYXALRA&_nc_ohc=gfJ63TnMvhQAX-RWWdt&_nc_ht=scontent.fcgp27-1.fna&oh=22c87c417b3b415de6d8cc95ea2efcb3&oe=6124080E"
       },
       "description": "this is github repo"
     },
@@ -24,6 +24,14 @@
         "avatar_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Me%21.png"
       },
       "description": "this is github repo"
+    },
+    {
+      "id": 4,
+      "name": "Ruman",
+      "owner": {
+        "avatar_url": "https://storage.googleapis.com/kaggle-avatars/images/2762679-gr.jpg"
+      },
+      "description": "this is ruman github repo"
     }
   ]
 }
