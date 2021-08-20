@@ -1,0 +1,29 @@
+{
+  "total_count": 3,
+  "items": [
+    {
+      "id": 1,
+      "name": "srinath",
+      "owner": {
+        "avatar_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Me%21.png"
+      },
+      "description": "this is github repo"
+    },
+    {
+      "id": 2,
+      "name": "Uzzal",
+      "owner": {
+        "avatar_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Me%21.png"
+      },
+      "description": "this is github repo"
+    },
+    {
+      "id": 3,
+      "name": "Nipu",
+      "owner": {
+        "avatar_url": "https://upload.wikimedia.org/wikipedia/en/0/01/Taylor_Swift_-_Me%21.png"
+      },
+      "description": "this is github repo"
+    }
+  ]
+}
